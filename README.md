@@ -1,3 +1,2 @@
-# StepsTracking WPF Project
-
+# StepsTracking
 
